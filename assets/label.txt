@@ -1,0 +1,2 @@
+0 bermasker
+1 tanpa_masker
